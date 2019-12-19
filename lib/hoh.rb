@@ -4,12 +4,12 @@
 #
 # The tests will guide your construction.
 #
-# PORTION_1 = {
+Hash = {
    label: "Kingdom",
    sub_category: {
      label: "Phylum",
      sub_category: {
-      label: "Class"
+      label: "Class",
      }
    }
  }
