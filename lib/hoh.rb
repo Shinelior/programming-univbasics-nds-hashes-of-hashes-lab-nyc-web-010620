@@ -5,7 +5,7 @@
 # The tests will guide your construction.
 #
 def naming_system
-Hash = {
+ash = {
    label: "Kingdom",
    sub_category: {
      label: "Phylum",
