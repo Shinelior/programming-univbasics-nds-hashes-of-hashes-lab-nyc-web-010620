@@ -9,13 +9,13 @@ Hash = {
    sub_category: {
      label: "Phylum",
      sub_category: {
-      label: "Class",sub_category: {
+      label: "Class",sub_category: {label: "Order",
      }
    }
  }
 # 
 # PORTION_2 = {
-  label: "Order"
+ # label: "Order"
 # }
 # 
 # PORTION_3 = {
