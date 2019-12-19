@@ -9,7 +9,7 @@ Hash = {
    sub_category: {
      label: "Phylum",
      sub_category: {
-      label: "Class",sub_category: {label: "Order",sub_category{ label: "Family",sub_category: {label: "Genus",
+      label: "Class",sub_category: {label: "Order",sub_category{ label: "Family",sub_category: {label: "Genus",sub_category{
      }
    }
  }
@@ -26,7 +26,7 @@ Hash = {
 # }
 # 
 # PORTION_4 = {
-#   label: "Species",
+  label: "Species",
 #   sub_category: nil
 # }
 
