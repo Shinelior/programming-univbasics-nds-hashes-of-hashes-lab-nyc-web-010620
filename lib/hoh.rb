@@ -4,7 +4,7 @@
 #
 # The tests will guide your construction.
 #
-
+def naming_system
 Hash = {
    label: "Kingdom",
    sub_category: {
@@ -14,6 +14,7 @@ Hash = {
      }
    }
  }
+ end
 # 
 # PORTION_2 = {
  # label: "Order"
