@@ -4,6 +4,7 @@
 #
 # The tests will guide your construction.
 #
+
 Hash = {
    label: "Kingdom",
    sub_category: {
@@ -30,7 +31,7 @@ Hash = {
   # sub_category: nil
 # }
 
-def naming_system
+
   
   # Remember:
   #  Kingdom
